@@ -12,4 +12,6 @@ https://pandas.pydata.org/docs/reference/index.html#api
 
 Documentação PLOTLY:
 
+https://dash.plotly.com/
+
 https://plotly.com/python-api-reference/
